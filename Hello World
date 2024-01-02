@@ -1,0 +1,5 @@
+3 hello_world.py
+Print("Hello, Wolrd!")
+git init
+git add hello_world.py
+got commit -m "Initial commit: Add hello_world.py"
